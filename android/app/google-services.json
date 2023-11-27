@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405536348219",
+    "project_id": "fbpro9ea",
+    "storage_bucket": "fbpro9ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405536348219:android:b7c94e6543724bd198e41e",
+        "android_client_info": {
+          "package_name": "com.example.untitled3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLeYssslOrU1hEUV4JliaDoeyVwptzW9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
